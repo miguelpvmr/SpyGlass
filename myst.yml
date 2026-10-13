@@ -1,0 +1,12 @@
+version: 1
+
+project:
+  id: 9e81f19e-e6ce-432f-9474-d5640634ea2c
+  title: SpyGlass
+  description: Análisis exploratorio de datos de procedimientos CPRE y SpyGlass
+  github: https://github.com/miguelpvmr/SpyGlass
+  toc:
+    - file: notebooks/SPYOUT_EDA_limpio_final (1).ipynb
+
+site:
+  template: book-theme
