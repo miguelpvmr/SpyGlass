@@ -6,7 +6,7 @@ project:
   description: Análisis exploratorio de datos de procedimientos CPRE y SpyGlass
   github: https://github.com/miguelpvmr/SpyGlass
   toc:
-    - file: notebooks/SPYOUT_EDA_limpio_final (1).ipynb
+    - file: notebooks/01_EDA.ipynb
 
 site:
   template: book-theme
