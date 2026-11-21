@@ -7,7 +7,9 @@ project:
   github: https://github.com/miguelpvmr/SpyGlass
   toc:
     - file: notebooks/01_EDA.ipynb
-    - file: notebooks/02_Model.ipynb
+    - file: notebooks/02_Model1.ipynb
+    - file: notebooks/03_Model2.ipynb
+    - file: notebooks/04_Model3.ipynb
 
 site:
   template: book-theme
